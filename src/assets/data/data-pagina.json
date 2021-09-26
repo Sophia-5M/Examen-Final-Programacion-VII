@@ -1,0 +1,29 @@
+{
+    "titulo": "Sophia Mendez",
+    "email": "sophia.1997.mendez@gmail.com",
+    "nombre_corto": "Sophia",
+    "pagina_autor": "http://mipagina.com",
+    "facebook": "https://www.facebook.com/sophiamendezjimenez",
+    "twitter": "https://twitter.com/?lang=es",
+    "instagram": "https://www.instagram.com/sophia_55m/?hl=es",
+    "tumblr": "https://www.tumblr.com",
+    "equipo_trabajo": [
+        {
+            "nombre": "Edgar",
+            "apellido": "Lucas",
+            "dpi": "5487454590101",
+            "dependientes": [
+                {
+                "nombre": "Elizabeth",
+                "apellido": "Mendez",
+                "dpi": "78455818710101"
+                },
+                {
+                "nombre": "Alejandro",
+                "apellido": "Miron",
+                "dpi": "4184848150101"
+                }
+            ]
+        }
+    ]
+}

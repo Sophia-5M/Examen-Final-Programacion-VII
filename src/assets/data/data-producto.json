@@ -1,0 +1,31 @@
+{
+    "titulo": "Sophia Mendez",
+    "email": "sophia.1997.mendez@gmail.com",
+    "productos_disponibles": [
+        {
+        "id_prod": "01",
+        "nombre": "sobrecitos",
+        "categoria": "oficina",
+        "precio": "Q3.00",
+        "link": "detalles.component.html",
+        "disponible": "si"
+        },
+        {
+            "id_prod": "02",
+            "nombre": "funda",
+            "categoria": "accesorios",
+            "precio": "Q300.00",
+            "link": "detalles.component.html",
+            "disponible": "si"
+        },
+        {
+            "id_prod": "03",
+            "nombre": "libreta",
+            "categoria": "oficina",
+            "precio": "Q300.00",
+            "link": "detalles.component.html",
+            "disponible": "si"
+        }
+    ]
+}
+    
